@@ -282,7 +282,7 @@ Noen enkle regler:
 - Forklar **hva** du endrer.
 - Forklar **hvorfor** du endrer det.
 - Skill gjerne observasjon fra løsningsforslag.
-- Ikke legg tokens, passord eller andre secrets i Git.
+- Ikke legg tokens, passord eller andre secrets i Git (du får alt du føler du trenger fra JOBE, bare spør han så får du helt sikkert de rettighetene du trenger (han er egentlig en helt gem kar og gled i å dele. Har han fortalt deg om hans kallenavn da han studerte ved IT-Akademiet?)).
 - Ikke gjør store Foundation-endringer bare for å løse et lokalt problem.
 - Spør når du er usikker på hvilken repository som eier en sannhet.
 
